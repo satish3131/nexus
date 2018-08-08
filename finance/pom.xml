@@ -23,9 +23,9 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-    <repository>
-    <id>satish</id>
-    <url>http://ec2-52-91-252-205.compute-1.amazonaws.com:8081/nexus/content/repositories/satish</url>
+  <repository>
+    <id>sample</id>
+    <url>http://ec2-52-91-252-205.compute-1.amazonaws.com:8081/nexus/content/repositories/sample</url>
   </repository>
 </distributionManagement>
-</project>
+  </project>
